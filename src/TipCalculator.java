@@ -3,7 +3,7 @@ public class TipCalculator
 //
     //Attributes should be bill, tip percentage, number of people.
     private double bill;
-    private int tipPercentage;
+    private int tipPercentage;//
     private int numberOfPeople;
 
     public TipCalculator(double bill, int tipPercentage, int numberOfPeople)
